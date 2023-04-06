@@ -1,5 +1,5 @@
 # stargeeks
-/English translate with google
+/English translate with google <br>
 this is a school project do not modify
 this consists in a site prototype that you upload music and movies
 /portugues
